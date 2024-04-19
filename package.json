@@ -14,5 +14,15 @@
     "express": "^4.17.1",
     "lodash": "^4.17.11",
     "mongoose": "^5.12.9"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShonHarsh/blog-alpha.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ShonHarsh/blog-alpha/issues"
+  },
+  "homepage": "https://github.com/ShonHarsh/blog-alpha#readme"
 }
